@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Only4DeⓂ️o")
+print("Only4DeⓂ️o")
 
