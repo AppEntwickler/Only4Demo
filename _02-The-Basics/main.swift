@@ -4,12 +4,14 @@
 //
 //  Created by 🅰️ppEntwickler on 17.08.24.
 //
+//  Code lesen und verstehen
+//
 //  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Comments
 //
 
 import Foundation
 
-print("Hello, World!")
+print("_02-The-Basics")
 
 // Declaring Constants and Variables
 /*
