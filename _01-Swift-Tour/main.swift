@@ -142,7 +142,7 @@ for i in 0..<4 {
 print(total)
 // Prints "6"
 
-func greet(person: String, day: String) -> String {
+/*func greet(person: String, day: String) -> String {
     return "Hello \(person), today is \(day)."
 }
 greet(person: "Bob", day: "Tuesday")
@@ -150,7 +150,7 @@ greet(person: "Bob", day: "Tuesday")
 func greet(_ person: String, on day: String) -> String {
     return "Hello \(person), today is \(day)."
 }
-greet("John", on: "Wednesday")
+greet("John", on: "Wednesday")*/
 
 func calculateStatistics(scores: [Int]) -> (min: Int, max: Int, sum: Int) {
     var min = scores[0]
@@ -176,7 +176,7 @@ print(statistics.sum)
 print(statistics.2)
 // Prints "120"
 
-func returnFifteen() -> Int {
+/*func returnFifteen() -> Int {
     var y = 10
     func add() {
         y += 5
@@ -184,18 +184,18 @@ func returnFifteen() -> Int {
     add()
     return y
 }
-returnFifteen()
+returnFifteen()*/
 
-func makeIncrementer() -> ((Int) -> Int) {
+/*func makeIncrementer() -> ((Int) -> Int) {
     func addOne(number: Int) -> Int {
         return 1 + number
     }
     return addOne
 }
 var increment = makeIncrementer()
-increment(7)
+increment(7)*/
 
-func hasAnyMatches(list: [Int], condition: (Int) -> Bool) -> Bool {
+/*func hasAnyMatches(list: [Int], condition: (Int) -> Bool) -> Bool {
     for item in list {
         if condition(item) {
             return true
@@ -594,6 +594,8 @@ func anyCommonElements<T: Sequence, U: Sequence>(_ lhs: T, _ rhs: U) -> Bool
    return false
 }
 anyCommonElements([1, 2, 3], [3])
+ 
+ */
 
 
 
