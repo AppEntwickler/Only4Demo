@@ -8,5 +8,6 @@
 import Foundation
 
 print("Only4DeⓂ️o")
-print("Only4DeⓂ️o")
+
+print("ONLY4DEⓂ️O")
 
