@@ -80,8 +80,8 @@
 			isa = PBXGroup;
 			children = (
 				9073393F2C71256D006D750E /* Only4Demo */,
-				907FD7E32C713E0F0003DD8B /* _01-Swift-Tour */,
 				907FD7EE2C7144690003DD8B /* _02-The-Basics */,
+				907FD7E32C713E0F0003DD8B /* _01-Swift-Tour */,
 				9073393E2C71256D006D750E /* Products */,
 			);
 			sourceTree = "<group>";
