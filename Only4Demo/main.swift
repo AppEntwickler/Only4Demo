@@ -7,7 +7,16 @@
 
 import Foundation
 
-print("Only4DeⓂ️o")
+print("Only4Demo auf MacOS erstellt")
 
-print("ONLY4DEⓂ️O")
+
+print("Only4Demo auf MacOS mit Xcode Push auf GitHub")
+
+
+print("Only4Demo auf Windows mit VisualStudio Clone von GitHub")
+
+
+print("Only4Demo auf Windows mit VisualStudio modifiziert und mit Push auf GitHub")
+
+
 
