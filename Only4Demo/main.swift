@@ -29,7 +29,7 @@ let g4712 = (fullname: "Max Mustermann", age: 40, maristat: "Verheiratet", maind
 let g4713 = (fullname: "Gisela Schnabel", age: 33, maristat: "Unbekannt", maindrink: "Kaffee schwarz")
 
 // var myInputG : String = "0000"
-print("Geben Sie eine 4stellige Nummer ein: ")
+print("+ Geben Sie eine der 4stelligen Nummern ein:\n| (4711, 4712, 4713)\n|\nV")
 var myInputG : String = readLine()!
 
 let myFileOutput : String = """
@@ -70,4 +70,7 @@ catch {
 }
 
 
-//print(myTupleStringIs.0)
+print(myFileOutput)
+print(myTupleStringIs)
+print("")
+
