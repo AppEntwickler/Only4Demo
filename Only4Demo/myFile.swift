@@ -2,9 +2,7 @@
 //  myFile.swift
 //  Only4Demo
 //
-//  Created by 🅰️ppEntwickler on 19.08.24.
+//  Created by 🅰️ppEntwickler on 01.09.24.
 //
 
 import Foundation
-
-let myTupleStringIs = g4711
