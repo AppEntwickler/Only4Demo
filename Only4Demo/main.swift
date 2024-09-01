@@ -46,6 +46,12 @@ let myTupleStringIs = g\(myInputG)
 
 """
 
+/* Was kommt denn da ???
+ Habe mit der myFileOutPut String Variable den Inhalt einer myFile.swift Datei nachgebildet.
+ Den Inhalt schreibe ich in die Datei und lege diese i gleichen Ordner wie die main.swift ab.
+ Bedeutet ich kann den Code in der abgelegten myFile.swift von der main.swift aus nutzen.
+*/
+
 // write:
 do {
   try myFileOutput.write(to: url, atomically: true, encoding: .utf8)

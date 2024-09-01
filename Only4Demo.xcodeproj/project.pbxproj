@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		907339412C71256D006D750E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907339402C71256D006D750E /* main.swift */; };
+		907F816B2C84CF6800F53EAB /* myFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907F816A2C84CF6800F53EAB /* myFile.swift */; };
 		907FD7E52C713E0F0003DD8B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907FD7E42C713E0F0003DD8B /* main.swift */; };
 		907FD7F02C7144690003DD8B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907FD7EF2C7144690003DD8B /* main.swift */; };
 /* End PBXBuildFile section */
@@ -45,6 +46,7 @@
 /* Begin PBXFileReference section */
 		9073393D2C71256D006D750E /* Only4Demo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Only4Demo; sourceTree = BUILT_PRODUCTS_DIR; };
 		907339402C71256D006D750E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		907F816A2C84CF6800F53EAB /* myFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myFile.swift; sourceTree = "<group>"; };
 		907FD7E22C713E0F0003DD8B /* _01-Swift-Tour */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "_01-Swift-Tour"; sourceTree = BUILT_PRODUCTS_DIR; };
 		907FD7E42C713E0F0003DD8B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		907FD7ED2C7144690003DD8B /* _02-The-Basics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "_02-The-Basics"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				907339402C71256D006D750E /* main.swift */,
+				907F816A2C84CF6800F53EAB /* myFile.swift */,
 			);
 			path = Only4Demo;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				907339412C71256D006D750E /* main.swift in Sources */,
+				907F816B2C84CF6800F53EAB /* myFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
